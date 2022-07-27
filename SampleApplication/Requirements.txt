@@ -1,0 +1,6 @@
+Create a todo list application:
+
+1. A user can add, edit and delete todos
+2. Each todo can be masked as complete
+3. Each todo can have one optional file attachment
+4. One person cannot access the todos of another
