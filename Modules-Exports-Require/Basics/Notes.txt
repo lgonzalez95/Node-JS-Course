@@ -1,0 +1,21 @@
+What does JS needs to manage a server?
+
+- Better ways to organize our code into reusable pieces
+- Ways to deal with files
+- Ways to deal with databases
+- Ability to communicate over the internet
+- Ability to accept requests and send responses
+- A way to deal with work that takes long time
+
+C++ Allows node to have above features, they are kind of features or utilities
+built in C++ that are available via the V8 engine.
+
+V8 allows to convert the JS code into C++
+V8 is written in C++
+
+NodeJS has also the JS code that allows to interact with the C++ code,
+it acts like the bridge between JS code and C++: 
+JS -> JS Core on NodeJS -> C++ code on NodeJS
+
+
+Expressions: A block of code that results in a value
